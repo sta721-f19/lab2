@@ -12,7 +12,11 @@ We will practice with the R components from HW1
 This will create a remote (private) repository in your github account.
 
 
-Open Rstudio on smith at http://smith.stat.duke.edu:8787 and login with your netid and password.  
+* Open Rstudio on smith at http://smith.stat.duke.edu:8787 and login with your netid and password.  
 
-Create a new project by cloning the repo lab2-YOURGITHUBUSERNAME  (substitute your github username)
+* Create a new project by cloning the repo lab2-YOURGITHUBUSERNAME  (substitute your github username)
+
+* Open lab2.Rnw in RStudio and follow instructions
+
+
 
