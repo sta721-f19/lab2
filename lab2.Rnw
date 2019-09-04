@@ -48,5 +48,5 @@ Edit files in both places and save.
 Locally Issue Commit, Pull and then edit to resolve conflicts.
 
 \section{More ?}
-
+and here's something else. 
 \end{document}
