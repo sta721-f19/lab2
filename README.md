@@ -1,7 +1,7 @@
 # README 
 
 In this Lab we will look at pushing and pulling files for local and remote repositories for version control.
-By the end you should be able to successfuly syn repos between the remote and ideally both smith and your laptop.
+By the end you should be able to successfuly sync repos between the remote and ideally both smith and your laptop.
 
 We will practice with the R components from HW1
 
